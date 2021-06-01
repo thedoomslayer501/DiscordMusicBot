@@ -1,0 +1,8 @@
+{
+    "TOKEN":"BOT_TOKEN",
+    "GENIUS_API_KEY": "GENIUS_API_TOKEN",
+    "YT_API_KEY": "YT_API_KEY",
+    "TOPGG_TOKEN": "TOPGG_TOKEN",
+    "OWNER": "DISCORD_OWNER_ID",
+    "PREFIX": "-"
+}
